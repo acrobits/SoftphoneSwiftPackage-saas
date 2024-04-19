@@ -20,5 +20,6 @@ let package = Package(
             name: "Softphone_Swift",
             url: "https://dist.acrobits.net/saas-swift-package/release/Softphone_Swift.xcframework-1.1.45.zip",
             checksum: "00142366a0fe852e51c0f14b29d749b2601db57cfb476ad2d42f982205b823a7"),
+            resources: [.copy("PrivacyInfo.xcprivacy")]
         ]
 )
