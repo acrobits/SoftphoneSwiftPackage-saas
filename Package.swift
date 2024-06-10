@@ -14,15 +14,15 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Softphone",
-            url: "https://dist.acrobits.net/saas-swift-package/release/Softphone.xcframework-1.1.48.zip",
-            checksum: "d2c0f9125ab0696dd38ca76a7dfefeba520d4a48f37a8faf9e9f6d00b1f152cd"),
+            url: "https://dist.acrobits.net/saas-swift-package/release/Softphone.xcframework-1.1.49.zip",
+            checksum: "afe8f22a11e65957cba7339378371fb3d2458053ea268992498d6d94ed1e5b5e"),
         .binaryTarget(
             name: "Softphone_Swift",
-            url: "https://dist.acrobits.net/saas-swift-package/release/Softphone_Swift.xcframework-1.1.48.zip",
-            checksum: "9ed2be23a573cddf36480bf924cfd39109e9ba0779326df6a58fbd808dd1de2d"),
+            url: "https://dist.acrobits.net/saas-swift-package/release/Softphone_Swift.xcframework-1.1.49.zip",
+            checksum: "400aaa0ff311ec4905d93fa1eb6b9d0d5831253a880fb6c1e28eff300be8022d"),
         .binaryTarget(
             name: "SoftphoneIntents",
-            url: "https://dist.acrobits.net/saas-swift-package/release/LibsoftphoneIntents.xcframework-1.1.48.zip",
-            checksum: "7b75d6de4e99f4d2a9fff6c2758993910e91638cfbccec4130dc5b55a166e80f"),
+            url: "https://dist.acrobits.net/saas-swift-package/release/LibsoftphoneIntents.xcframework-1.1.49.zip",
+            checksum: "9ae3faf147bb47c216fb0e43e89e846088f020ed4b656b2bbd01a6858c46b65b"),
         ]
 )
